@@ -1,6 +1,6 @@
 # Network Enumeration Tool
 
-Welcome to the **Network Enumeration Tool**, a comprehensive PowerShell script designed to perform both user and network enumeration on a Windows system, saving all results into a well-organized and elegant HTML report. This tool is useful for both security experts and system administrators who need detailed insights into their network and system configurations, user activities, and security settings.
+**Network Enumeration Tool**, is a comprehensive PowerShell script designed to perform both user and network enumeration on a Windows system, saving all results into a well-organized and elegant HTML report. This tool is useful for both security experts and system administrators who need detailed insights into their network and system configurations, user activities, and security settings.
 
 ## Key Features
 
